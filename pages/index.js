@@ -2,6 +2,7 @@
 import {Container } from "@chakra-ui/react";
 import Auth from "../components/Auth";
 import AddTodo from "../components/AddTodo";
+import TodoList from "../components/TodoList";
 
 
 
